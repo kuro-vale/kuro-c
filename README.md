@@ -7,4 +7,4 @@ Codewars discourage sharing solutions, that's why I only share my 8 kyu solution
 
 ### Current C rank
 
-![C Rank](https://shields.io/badge/-7%20kyu-white?logo=c&style=for-the-badge)
+![C Rank](https://shields.io/badge/-6%20kyu-white?logo=c&style=for-the-badge)
